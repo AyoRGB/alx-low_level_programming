@@ -5,7 +5,7 @@
  * followed by a new line
  * Return : Always 0 (success)
  */
-int main(void)
+int main()
 {
 	int i;
 
@@ -14,5 +14,5 @@ int main(void)
 		printf("%d", i);
 	}
 	printf("\n");
-	return (0);
+	return 0;
 }
