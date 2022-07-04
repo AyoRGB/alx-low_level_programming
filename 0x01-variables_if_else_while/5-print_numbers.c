@@ -3,7 +3,7 @@
 /**
  * main - prints all single digit numbers of base ten,
  * followed by a new line
- * Return : Always 0 (success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -14,5 +14,5 @@ int main(void)
 		printf("%d", i);
 	}
 	printf("\n");
-	return 0;
+	return (0);
 }
